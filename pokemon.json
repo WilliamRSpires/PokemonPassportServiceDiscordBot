@@ -1,0 +1,5342 @@
+{
+    "bulbasaur": {
+        "Pokedex Number": "1",
+        "Pokemon Name": "bulbasaur",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ivysaur": {
+        "Pokedex Number": "2",
+        "Pokemon Name": "ivysaur",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "venusaur": {
+        "Pokedex Number": "3",
+        "Pokemon Name": "venusaur",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "charmander": {
+        "Pokedex Number": "4",
+        "Pokemon Name": "charmander",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "charmeleon": {
+        "Pokedex Number": "5",
+        "Pokemon Name": "charmeleon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "charizard": {
+        "Pokedex Number": "6",
+        "Pokemon Name": "charizard",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "squirtle": {
+        "Pokedex Number": "7",
+        "Pokemon Name": "squirtle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "wartortle": {
+        "Pokedex Number": "8",
+        "Pokemon Name": "wartortle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "blastoise": {
+        "Pokedex Number": "9",
+        "Pokemon Name": "blastoise",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "caterpie": {
+        "Pokedex Number": "10",
+        "Pokemon Name": "caterpie",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "metapod": {
+        "Pokedex Number": "11",
+        "Pokemon Name": "metapod",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "butterfree": {
+        "Pokedex Number": "12",
+        "Pokemon Name": "butterfree",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "weedle": {
+        "Pokedex Number": "13",
+        "Pokemon Name": "weedle",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "kakuna": {
+        "Pokedex Number": "14",
+        "Pokemon Name": "kakuna",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "beedrill": {
+        "Pokedex Number": "15",
+        "Pokemon Name": "beedrill",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "pidgey": {
+        "Pokedex Number": "16",
+        "Pokemon Name": "pidgey",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "pidgeotto": {
+        "Pokedex Number": "17",
+        "Pokemon Name": "pidgeotto",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "pidgeot": {
+        "Pokedex Number": "18",
+        "Pokemon Name": "pidgeot",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "rattata": {
+        "Pokedex Number": "19",
+        "Pokemon Name": "rattata",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "raticate": {
+        "Pokedex Number": "20",
+        "Pokemon Name": "raticate",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "spearow": {
+        "Pokedex Number": "21",
+        "Pokemon Name": "spearow",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "fearow": {
+        "Pokedex Number": "22",
+        "Pokemon Name": "fearow",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "ekans": {
+        "Pokedex Number": "23",
+        "Pokemon Name": "ekans",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Eevee"
+    },
+    "arbok": {
+        "Pokedex Number": "24",
+        "Pokemon Name": "arbok",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Eevee"
+    },
+    "pikachu": {
+        "Pokedex Number": "25",
+        "Pokemon Name": "pikachu",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "raichu": {
+        "Pokedex Number": "26",
+        "Pokemon Name": "raichu",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sandshrew": {
+        "Pokedex Number": "27",
+        "Pokemon Name": "sandshrew",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu"
+    },
+    "sandslash": {
+        "Pokedex Number": "28",
+        "Pokemon Name": "sandslash",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "female nidoran": {
+        "Pokedex Number": "29",
+        "Pokemon Name": "female nidoran",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "nidorina": {
+        "Pokedex Number": "30",
+        "Pokemon Name": "nidorina",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "nidoqueen": {
+        "Pokedex Number": "31",
+        "Pokemon Name": "nidoqueen",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "male nidoran": {
+        "Pokedex Number": "32",
+        "Pokemon Name": "male nidoran",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "nidorino": {
+        "Pokedex Number": "33",
+        "Pokemon Name": "nidorino",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "nidoking": {
+        "Pokedex Number": "34",
+        "Pokemon Name": "nidoking",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "clefairy": {
+        "Pokedex Number": "35",
+        "Pokemon Name": "clefairy",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "clefable": {
+        "Pokedex Number": "36",
+        "Pokemon Name": "clefable",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vulpix": {
+        "Pokedex Number": "37",
+        "Pokemon Name": "vulpix",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ninetales": {
+        "Pokedex Number": "38",
+        "Pokemon Name": "ninetales",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "jigglypuff": {
+        "Pokedex Number": "39",
+        "Pokemon Name": "jigglypuff",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "wigglytuff": {
+        "Pokedex Number": "40",
+        "Pokemon Name": "wigglytuff",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "zubat": {
+        "Pokedex Number": "41",
+        "Pokemon Name": "zubat",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "golbat": {
+        "Pokedex Number": "42",
+        "Pokemon Name": "golbat",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "oddish": {
+        "Pokedex Number": "43",
+        "Pokemon Name": "oddish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gloom": {
+        "Pokedex Number": "44",
+        "Pokemon Name": "gloom",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vileplume": {
+        "Pokedex Number": "45",
+        "Pokemon Name": "vileplume",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "paras": {
+        "Pokedex Number": "46",
+        "Pokemon Name": "paras",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "parasect": {
+        "Pokedex Number": "47",
+        "Pokemon Name": "parasect",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "venonat": {
+        "Pokedex Number": "48",
+        "Pokemon Name": "venonat",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "venomoth": {
+        "Pokedex Number": "49",
+        "Pokemon Name": "venomoth",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "diglett": {
+        "Pokedex Number": "50",
+        "Pokemon Name": "diglett",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dugtrio": {
+        "Pokedex Number": "51",
+        "Pokemon Name": "dugtrio",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "meowth": {
+        "Pokedex Number": "52",
+        "Pokemon Name": "meowth",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "persian": {
+        "Pokedex Number": "53",
+        "Pokemon Name": "persian",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "psyduck": {
+        "Pokedex Number": "54",
+        "Pokemon Name": "psyduck",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "golduck": {
+        "Pokedex Number": "55",
+        "Pokemon Name": "golduck",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "mankey": {
+        "Pokedex Number": "56",
+        "Pokemon Name": "mankey",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu"
+    },
+    "primeape": {
+        "Pokedex Number": "57",
+        "Pokemon Name": "primeape",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu"
+    },
+    "growlithe": {
+        "Pokedex Number": "58",
+        "Pokemon Name": "growlithe",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "arcanine": {
+        "Pokedex Number": "59",
+        "Pokemon Name": "arcanine",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "poliwag": {
+        "Pokedex Number": "60",
+        "Pokemon Name": "poliwag",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "poliwhirl": {
+        "Pokedex Number": "61",
+        "Pokemon Name": "poliwhirl",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "poliwrath": {
+        "Pokedex Number": "62",
+        "Pokemon Name": "poliwrath",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "abra": {
+        "Pokedex Number": "63",
+        "Pokemon Name": "abra",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "kadabra": {
+        "Pokedex Number": "64",
+        "Pokemon Name": "kadabra",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "alakazam": {
+        "Pokedex Number": "65",
+        "Pokemon Name": "alakazam",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "machop": {
+        "Pokedex Number": "66",
+        "Pokemon Name": "machop",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "machoke": {
+        "Pokedex Number": "67",
+        "Pokemon Name": "machoke",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "machamp": {
+        "Pokedex Number": "68",
+        "Pokemon Name": "machamp",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bellsprout": {
+        "Pokedex Number": "69",
+        "Pokemon Name": "bellsprout",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Eevee"
+    },
+    "weepinbell": {
+        "Pokedex Number": "70",
+        "Pokemon Name": "weepinbell",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Eevee"
+    },
+    "victreebel": {
+        "Pokedex Number": "71",
+        "Pokemon Name": "victreebel",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Eevee"
+    },
+    "tentacool": {
+        "Pokedex Number": "72",
+        "Pokemon Name": "tentacool",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "tentacruel": {
+        "Pokedex Number": "73",
+        "Pokemon Name": "tentacruel",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "geodude": {
+        "Pokedex Number": "74",
+        "Pokemon Name": "geodude",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "graveler": {
+        "Pokedex Number": "75",
+        "Pokemon Name": "graveler",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "golem": {
+        "Pokedex Number": "76",
+        "Pokemon Name": "golem",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "ponyta": {
+        "Pokedex Number": "77",
+        "Pokemon Name": "ponyta",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "rapidash": {
+        "Pokedex Number": "78",
+        "Pokemon Name": "rapidash",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "slowpoke": {
+        "Pokedex Number": "79",
+        "Pokemon Name": "slowpoke",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "slowbro": {
+        "Pokedex Number": "80",
+        "Pokemon Name": "slowbro",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "magnemite": {
+        "Pokedex Number": "81",
+        "Pokemon Name": "magnemite",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "magneton": {
+        "Pokedex Number": "82",
+        "Pokemon Name": "magneton",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "farfetchd": {
+        "Pokedex Number": "83",
+        "Pokemon Name": "farfetchd",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "doduo": {
+        "Pokedex Number": "84",
+        "Pokemon Name": "doduo",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "dodrio": {
+        "Pokedex Number": "85",
+        "Pokemon Name": "dodrio",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "seel": {
+        "Pokedex Number": "86",
+        "Pokemon Name": "seel",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "dewgong": {
+        "Pokedex Number": "87",
+        "Pokemon Name": "dewgong",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "grimer": {
+        "Pokedex Number": "88",
+        "Pokemon Name": "grimer",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu"
+    },
+    "muk": {
+        "Pokedex Number": "89",
+        "Pokemon Name": "muk",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu"
+    },
+    "shellder": {
+        "Pokedex Number": "90",
+        "Pokemon Name": "shellder",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cloyster": {
+        "Pokedex Number": "91",
+        "Pokemon Name": "cloyster",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gastly": {
+        "Pokedex Number": "92",
+        "Pokemon Name": "gastly",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "haunter": {
+        "Pokedex Number": "93",
+        "Pokemon Name": "haunter",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gengar": {
+        "Pokedex Number": "94",
+        "Pokemon Name": "gengar",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "onix": {
+        "Pokedex Number": "95",
+        "Pokemon Name": "onix",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "drowzee": {
+        "Pokedex Number": "96",
+        "Pokemon Name": "drowzee",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "hypno": {
+        "Pokedex Number": "97",
+        "Pokemon Name": "hypno",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "krabby": {
+        "Pokedex Number": "98",
+        "Pokemon Name": "krabby",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "kingler": {
+        "Pokedex Number": "99",
+        "Pokemon Name": "kingler",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "voltorb": {
+        "Pokedex Number": "100",
+        "Pokemon Name": "voltorb",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "electrode": {
+        "Pokedex Number": "101",
+        "Pokemon Name": "electrode",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "exeggcute": {
+        "Pokedex Number": "102",
+        "Pokemon Name": "exeggcute",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "exeggutor": {
+        "Pokedex Number": "103",
+        "Pokemon Name": "exeggutor",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "cubone": {
+        "Pokedex Number": "104",
+        "Pokemon Name": "cubone",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "marowak": {
+        "Pokedex Number": "105",
+        "Pokemon Name": "marowak",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "hitmonlee": {
+        "Pokedex Number": "106",
+        "Pokemon Name": "hitmonlee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hitmonchan": {
+        "Pokedex Number": "107",
+        "Pokemon Name": "hitmonchan",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "lickitung": {
+        "Pokedex Number": "108",
+        "Pokemon Name": "lickitung",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "koffing": {
+        "Pokedex Number": "109",
+        "Pokemon Name": "koffing",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "weezing": {
+        "Pokedex Number": "110",
+        "Pokemon Name": "weezing",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "rhyhorn": {
+        "Pokedex Number": "111",
+        "Pokemon Name": "rhyhorn",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "rhydon": {
+        "Pokedex Number": "112",
+        "Pokemon Name": "rhydon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "chansey": {
+        "Pokedex Number": "113",
+        "Pokemon Name": "chansey",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "tangela": {
+        "Pokedex Number": "114",
+        "Pokemon Name": "tangela",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "kangaskhan": {
+        "Pokedex Number": "115",
+        "Pokemon Name": "kangaskhan",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "horsea": {
+        "Pokedex Number": "116",
+        "Pokemon Name": "horsea",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "seadra": {
+        "Pokedex Number": "117",
+        "Pokemon Name": "seadra",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "goldeen": {
+        "Pokedex Number": "118",
+        "Pokemon Name": "goldeen",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "seaking": {
+        "Pokedex Number": "119",
+        "Pokemon Name": "seaking",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "staryu": {
+        "Pokedex Number": "120",
+        "Pokemon Name": "staryu",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "starmie": {
+        "Pokedex Number": "121",
+        "Pokemon Name": "starmie",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "mister mime": {
+        "Pokedex Number": "122",
+        "Pokemon Name": "mister mime",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "scyther": {
+        "Pokedex Number": "123",
+        "Pokemon Name": "scyther",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu"
+    },
+    "jynx": {
+        "Pokedex Number": "124",
+        "Pokemon Name": "jynx",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "electabuzz": {
+        "Pokedex Number": "125",
+        "Pokemon Name": "electabuzz",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "magmar": {
+        "Pokedex Number": "126",
+        "Pokemon Name": "magmar",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "pinsir": {
+        "Pokedex Number": "127",
+        "Pokemon Name": "pinsir",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Eevee"
+    },
+    "tauros": {
+        "Pokedex Number": "128",
+        "Pokemon Name": "tauros",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "magikarp": {
+        "Pokedex Number": "129",
+        "Pokemon Name": "magikarp",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gyarados": {
+        "Pokedex Number": "130",
+        "Pokemon Name": "gyarados",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "lapras": {
+        "Pokedex Number": "131",
+        "Pokemon Name": "lapras",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ditto": {
+        "Pokedex Number": "132",
+        "Pokemon Name": "ditto",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "eevee": {
+        "Pokedex Number": "133",
+        "Pokemon Name": "eevee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vaporeon": {
+        "Pokedex Number": "134",
+        "Pokemon Name": "vaporeon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "jolteon": {
+        "Pokedex Number": "135",
+        "Pokemon Name": "jolteon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "flareon": {
+        "Pokedex Number": "136",
+        "Pokemon Name": "flareon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "porygon": {
+        "Pokedex Number": "137",
+        "Pokemon Name": "porygon",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "omanyte": {
+        "Pokedex Number": "138",
+        "Pokemon Name": "omanyte",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "omastar": {
+        "Pokedex Number": "139",
+        "Pokemon Name": "omastar",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "kabuto": {
+        "Pokedex Number": "140",
+        "Pokemon Name": "kabuto",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "kabutops": {
+        "Pokedex Number": "141",
+        "Pokemon Name": "kabutops",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "aerodactyl": {
+        "Pokedex Number": "142",
+        "Pokemon Name": "aerodactyl",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "snorlax": {
+        "Pokedex Number": "143",
+        "Pokemon Name": "snorlax",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "articuno": {
+        "Pokedex Number": "144",
+        "Pokemon Name": "articuno",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "zapdos": {
+        "Pokedex Number": "145",
+        "Pokemon Name": "zapdos",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "moltres": {
+        "Pokedex Number": "146",
+        "Pokemon Name": "moltres",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "dratini": {
+        "Pokedex Number": "147",
+        "Pokemon Name": "dratini",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "dragonair": {
+        "Pokedex Number": "148",
+        "Pokemon Name": "dragonair",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "dragonite": {
+        "Pokedex Number": "149",
+        "Pokemon Name": "dragonite",
+        "Last Game Playable in": "Let's Go Pikachu and Eevee",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "mewtwo": {
+        "Pokedex Number": "150",
+        "Pokemon Name": "mewtwo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Let's Go Pikachu and Eevee"
+    },
+    "mew": {
+        "Pokedex Number": "151",
+        "Pokemon Name": "mew",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokeball Plus"
+    },
+    "chikorita": {
+        "Pokedex Number": "152",
+        "Pokemon Name": "chikorita",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "bayleef": {
+        "Pokedex Number": "153",
+        "Pokemon Name": "bayleef",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "meganium": {
+        "Pokedex Number": "154",
+        "Pokemon Name": "meganium",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "cyndaquil": {
+        "Pokedex Number": "155",
+        "Pokemon Name": "cyndaquil",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "quilava": {
+        "Pokedex Number": "156",
+        "Pokemon Name": "quilava",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "typhlosion": {
+        "Pokedex Number": "157",
+        "Pokemon Name": "typhlosion",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "totodile": {
+        "Pokedex Number": "158",
+        "Pokemon Name": "totodile",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "croconaw": {
+        "Pokedex Number": "159",
+        "Pokemon Name": "croconaw",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "feraligatr": {
+        "Pokedex Number": "160",
+        "Pokemon Name": "feraligatr",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "sentret": {
+        "Pokedex Number": "161",
+        "Pokemon Name": "sentret",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "furret": {
+        "Pokedex Number": "162",
+        "Pokemon Name": "furret",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "hoothoot": {
+        "Pokedex Number": "163",
+        "Pokemon Name": "hoothoot",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "noctowl": {
+        "Pokedex Number": "164",
+        "Pokemon Name": "noctowl",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ledyba": {
+        "Pokedex Number": "165",
+        "Pokemon Name": "ledyba",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "ledian": {
+        "Pokedex Number": "166",
+        "Pokemon Name": "ledian",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "spinarak": {
+        "Pokedex Number": "167",
+        "Pokemon Name": "spinarak",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "ariados": {
+        "Pokedex Number": "168",
+        "Pokemon Name": "ariados",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "crobat": {
+        "Pokedex Number": "169",
+        "Pokemon Name": "crobat",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "chinchou": {
+        "Pokedex Number": "170",
+        "Pokemon Name": "chinchou",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "lanturn": {
+        "Pokedex Number": "171",
+        "Pokemon Name": "lanturn",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pichu": {
+        "Pokedex Number": "172",
+        "Pokemon Name": "pichu",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cleffa": {
+        "Pokedex Number": "173",
+        "Pokemon Name": "cleffa",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "igglybuff": {
+        "Pokedex Number": "174",
+        "Pokemon Name": "igglybuff",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "togepi": {
+        "Pokedex Number": "175",
+        "Pokemon Name": "togepi",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "togetic": {
+        "Pokedex Number": "176",
+        "Pokemon Name": "togetic",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "natu": {
+        "Pokedex Number": "177",
+        "Pokemon Name": "natu",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "xatu": {
+        "Pokedex Number": "178",
+        "Pokemon Name": "xatu",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mareep": {
+        "Pokedex Number": "179",
+        "Pokemon Name": "mareep",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "flaaffy": {
+        "Pokedex Number": "180",
+        "Pokemon Name": "flaaffy",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "ampharos": {
+        "Pokedex Number": "181",
+        "Pokemon Name": "ampharos",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "bellossom": {
+        "Pokedex Number": "182",
+        "Pokemon Name": "bellossom",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "marill": {
+        "Pokedex Number": "183",
+        "Pokemon Name": "marill",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "azumarill": {
+        "Pokedex Number": "184",
+        "Pokemon Name": "azumarill",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "sudowoodo": {
+        "Pokedex Number": "185",
+        "Pokemon Name": "sudowoodo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "politoed": {
+        "Pokedex Number": "186",
+        "Pokemon Name": "politoed",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "hoppip": {
+        "Pokedex Number": "187",
+        "Pokemon Name": "hoppip",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "skiploom": {
+        "Pokedex Number": "188",
+        "Pokemon Name": "skiploom",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "jumpluff": {
+        "Pokedex Number": "189",
+        "Pokemon Name": "jumpluff",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "aipom": {
+        "Pokedex Number": "190",
+        "Pokemon Name": "aipom",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "sunkern": {
+        "Pokedex Number": "191",
+        "Pokemon Name": "sunkern",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "sunflora": {
+        "Pokedex Number": "192",
+        "Pokemon Name": "sunflora",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "yanma": {
+        "Pokedex Number": "193",
+        "Pokemon Name": "yanma",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "wooper": {
+        "Pokedex Number": "194",
+        "Pokemon Name": "wooper",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "quagsire": {
+        "Pokedex Number": "195",
+        "Pokemon Name": "quagsire",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "espeon": {
+        "Pokedex Number": "196",
+        "Pokemon Name": "espeon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "umbreon": {
+        "Pokedex Number": "197",
+        "Pokemon Name": "umbreon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "murkrow": {
+        "Pokedex Number": "198",
+        "Pokemon Name": "murkrow",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "slowking": {
+        "Pokedex Number": "199",
+        "Pokemon Name": "slowking",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "misdreavus": {
+        "Pokedex Number": "200",
+        "Pokemon Name": "misdreavus",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "unown": {
+        "Pokedex Number": "201",
+        "Pokemon Name": "unown",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "wobbuffet": {
+        "Pokedex Number": "202",
+        "Pokemon Name": "wobbuffet",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "girafarig": {
+        "Pokedex Number": "203",
+        "Pokemon Name": "girafarig",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "pineco": {
+        "Pokedex Number": "204",
+        "Pokemon Name": "pineco",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "forretress": {
+        "Pokedex Number": "205",
+        "Pokemon Name": "forretress",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "dunsparce": {
+        "Pokedex Number": "206",
+        "Pokemon Name": "dunsparce",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "gligar": {
+        "Pokedex Number": "207",
+        "Pokemon Name": "gligar",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "steelix": {
+        "Pokedex Number": "208",
+        "Pokemon Name": "steelix",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "snubbull": {
+        "Pokedex Number": "209",
+        "Pokemon Name": "snubbull",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "granbull": {
+        "Pokedex Number": "210",
+        "Pokemon Name": "granbull",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "qwilfish": {
+        "Pokedex Number": "211",
+        "Pokemon Name": "qwilfish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "scizor": {
+        "Pokedex Number": "212",
+        "Pokemon Name": "scizor",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "shuckle": {
+        "Pokedex Number": "213",
+        "Pokemon Name": "shuckle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "heracross": {
+        "Pokedex Number": "214",
+        "Pokemon Name": "heracross",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "sneasel": {
+        "Pokedex Number": "215",
+        "Pokemon Name": "sneasel",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "teddiursa": {
+        "Pokedex Number": "216",
+        "Pokemon Name": "teddiursa",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "ursaring": {
+        "Pokedex Number": "217",
+        "Pokemon Name": "ursaring",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "slugma": {
+        "Pokedex Number": "218",
+        "Pokemon Name": "slugma",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "magcargo": {
+        "Pokedex Number": "219",
+        "Pokemon Name": "magcargo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "swinub": {
+        "Pokedex Number": "220",
+        "Pokemon Name": "swinub",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "piloswine": {
+        "Pokedex Number": "221",
+        "Pokemon Name": "piloswine",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "corsola": {
+        "Pokedex Number": "222",
+        "Pokemon Name": "corsola",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "remoraid": {
+        "Pokedex Number": "223",
+        "Pokemon Name": "remoraid",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "octillery": {
+        "Pokedex Number": "224",
+        "Pokemon Name": "octillery",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "delibird": {
+        "Pokedex Number": "225",
+        "Pokemon Name": "delibird",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mantine": {
+        "Pokedex Number": "226",
+        "Pokemon Name": "mantine",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "skarmory": {
+        "Pokedex Number": "227",
+        "Pokemon Name": "skarmory",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "houndour": {
+        "Pokedex Number": "228",
+        "Pokemon Name": "houndour",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "houndoom": {
+        "Pokedex Number": "229",
+        "Pokemon Name": "houndoom",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "kingdra": {
+        "Pokedex Number": "230",
+        "Pokemon Name": "kingdra",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "phanpy": {
+        "Pokedex Number": "231",
+        "Pokemon Name": "phanpy",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "donphan": {
+        "Pokedex Number": "232",
+        "Pokemon Name": "donphan",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "porygon  two": {
+        "Pokedex Number": "233",
+        "Pokemon Name": "porygon  two",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "stantler": {
+        "Pokedex Number": "234",
+        "Pokemon Name": "stantler",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "smeargle": {
+        "Pokedex Number": "235",
+        "Pokemon Name": "smeargle",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "tyrogue": {
+        "Pokedex Number": "236",
+        "Pokemon Name": "tyrogue",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hitmontop": {
+        "Pokedex Number": "237",
+        "Pokemon Name": "hitmontop",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "smoochum": {
+        "Pokedex Number": "238",
+        "Pokemon Name": "smoochum",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "elekid": {
+        "Pokedex Number": "239",
+        "Pokemon Name": "elekid",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "magby": {
+        "Pokedex Number": "240",
+        "Pokemon Name": "magby",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "miltank": {
+        "Pokedex Number": "241",
+        "Pokemon Name": "miltank",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "blissey": {
+        "Pokedex Number": "242",
+        "Pokemon Name": "blissey",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "raikou": {
+        "Pokedex Number": "243",
+        "Pokemon Name": "raikou",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "entei": {
+        "Pokedex Number": "244",
+        "Pokemon Name": "entei",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "suicune": {
+        "Pokedex Number": "245",
+        "Pokemon Name": "suicune",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "larvitar": {
+        "Pokedex Number": "246",
+        "Pokemon Name": "larvitar",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "pupitar": {
+        "Pokedex Number": "247",
+        "Pokemon Name": "pupitar",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "tyranitar": {
+        "Pokedex Number": "248",
+        "Pokemon Name": "tyranitar",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "lugia": {
+        "Pokedex Number": "249",
+        "Pokemon Name": "lugia",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "ho-oh": {
+        "Pokedex Number": "250",
+        "Pokemon Name": "ho-oh",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "celebi": {
+        "Pokedex Number": "251",
+        "Pokemon Name": "celebi",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Crystal"
+    },
+    "treecko": {
+        "Pokedex Number": "252",
+        "Pokemon Name": "treecko",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "grovyle": {
+        "Pokedex Number": "253",
+        "Pokemon Name": "grovyle",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "sceptile": {
+        "Pokedex Number": "254",
+        "Pokemon Name": "sceptile",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "torchic": {
+        "Pokedex Number": "255",
+        "Pokemon Name": "torchic",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "combusken": {
+        "Pokedex Number": "256",
+        "Pokemon Name": "combusken",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "blaziken": {
+        "Pokedex Number": "257",
+        "Pokemon Name": "blaziken",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "mudkip": {
+        "Pokedex Number": "258",
+        "Pokemon Name": "mudkip",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "marshtomp": {
+        "Pokedex Number": "259",
+        "Pokemon Name": "marshtomp",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "swampert": {
+        "Pokedex Number": "260",
+        "Pokemon Name": "swampert",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "poochyena": {
+        "Pokedex Number": "261",
+        "Pokemon Name": "poochyena",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "mightyena": {
+        "Pokedex Number": "262",
+        "Pokemon Name": "mightyena",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "zigzagoon": {
+        "Pokedex Number": "263",
+        "Pokemon Name": "zigzagoon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "linoone": {
+        "Pokedex Number": "264",
+        "Pokemon Name": "linoone",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "wurmple": {
+        "Pokedex Number": "265",
+        "Pokemon Name": "wurmple",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "silcoon": {
+        "Pokedex Number": "266",
+        "Pokemon Name": "silcoon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "beautifly": {
+        "Pokedex Number": "267",
+        "Pokemon Name": "beautifly",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "cascoon": {
+        "Pokedex Number": "268",
+        "Pokemon Name": "cascoon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "dustox": {
+        "Pokedex Number": "269",
+        "Pokemon Name": "dustox",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "lotad": {
+        "Pokedex Number": "270",
+        "Pokemon Name": "lotad",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "lombre": {
+        "Pokedex Number": "271",
+        "Pokemon Name": "lombre",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "ludicolo": {
+        "Pokedex Number": "272",
+        "Pokemon Name": "ludicolo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "seedot": {
+        "Pokedex Number": "273",
+        "Pokemon Name": "seedot",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "nuzleaf": {
+        "Pokedex Number": "274",
+        "Pokemon Name": "nuzleaf",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "shiftry": {
+        "Pokedex Number": "275",
+        "Pokemon Name": "shiftry",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "taillow": {
+        "Pokedex Number": "276",
+        "Pokemon Name": "taillow",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "swellow": {
+        "Pokedex Number": "277",
+        "Pokemon Name": "swellow",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "wingull": {
+        "Pokedex Number": "278",
+        "Pokemon Name": "wingull",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pelipper": {
+        "Pokedex Number": "279",
+        "Pokemon Name": "pelipper",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ralts": {
+        "Pokedex Number": "280",
+        "Pokemon Name": "ralts",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "kirlia": {
+        "Pokedex Number": "281",
+        "Pokemon Name": "kirlia",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gardevoir": {
+        "Pokedex Number": "282",
+        "Pokemon Name": "gardevoir",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "surskit": {
+        "Pokedex Number": "283",
+        "Pokemon Name": "surskit",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "masquerain": {
+        "Pokedex Number": "284",
+        "Pokemon Name": "masquerain",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "shroomish": {
+        "Pokedex Number": "285",
+        "Pokemon Name": "shroomish",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "breloom": {
+        "Pokedex Number": "286",
+        "Pokemon Name": "breloom",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "slakoth": {
+        "Pokedex Number": "287",
+        "Pokemon Name": "slakoth",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "vigoroth": {
+        "Pokedex Number": "288",
+        "Pokemon Name": "vigoroth",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "slaking": {
+        "Pokedex Number": "289",
+        "Pokemon Name": "slaking",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "nincada": {
+        "Pokedex Number": "290",
+        "Pokemon Name": "nincada",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ninjask": {
+        "Pokedex Number": "291",
+        "Pokemon Name": "ninjask",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "shedinja": {
+        "Pokedex Number": "292",
+        "Pokemon Name": "shedinja",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "whismur": {
+        "Pokedex Number": "293",
+        "Pokemon Name": "whismur",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "loudred": {
+        "Pokedex Number": "294",
+        "Pokemon Name": "loudred",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "exploud": {
+        "Pokedex Number": "295",
+        "Pokemon Name": "exploud",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "makuhita": {
+        "Pokedex Number": "296",
+        "Pokemon Name": "makuhita",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "hariyama": {
+        "Pokedex Number": "297",
+        "Pokemon Name": "hariyama",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "azurill": {
+        "Pokedex Number": "298",
+        "Pokemon Name": "azurill",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "nosepass": {
+        "Pokedex Number": "299",
+        "Pokemon Name": "nosepass",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "skitty": {
+        "Pokedex Number": "300",
+        "Pokemon Name": "skitty",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "delcatty": {
+        "Pokedex Number": "301",
+        "Pokemon Name": "delcatty",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "sableye": {
+        "Pokedex Number": "302",
+        "Pokemon Name": "sableye",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "mawile": {
+        "Pokedex Number": "303",
+        "Pokemon Name": "mawile",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "aron": {
+        "Pokedex Number": "304",
+        "Pokemon Name": "aron",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "lairon": {
+        "Pokedex Number": "305",
+        "Pokemon Name": "lairon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "aggron": {
+        "Pokedex Number": "306",
+        "Pokemon Name": "aggron",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "meditite": {
+        "Pokedex Number": "307",
+        "Pokemon Name": "meditite",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "medicham": {
+        "Pokedex Number": "308",
+        "Pokemon Name": "medicham",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "electrike": {
+        "Pokedex Number": "309",
+        "Pokemon Name": "electrike",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "manectric": {
+        "Pokedex Number": "310",
+        "Pokemon Name": "manectric",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "plusle": {
+        "Pokedex Number": "311",
+        "Pokemon Name": "plusle",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "minun": {
+        "Pokedex Number": "312",
+        "Pokemon Name": "minun",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "volbeat": {
+        "Pokedex Number": "313",
+        "Pokemon Name": "volbeat",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "illumise": {
+        "Pokedex Number": "314",
+        "Pokemon Name": "illumise",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "roselia": {
+        "Pokedex Number": "315",
+        "Pokemon Name": "roselia",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gulpin": {
+        "Pokedex Number": "316",
+        "Pokemon Name": "gulpin",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "swalot": {
+        "Pokedex Number": "317",
+        "Pokemon Name": "swalot",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "carvanha": {
+        "Pokedex Number": "318",
+        "Pokemon Name": "carvanha",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "sharpedo": {
+        "Pokedex Number": "319",
+        "Pokemon Name": "sharpedo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "wailmer": {
+        "Pokedex Number": "320",
+        "Pokemon Name": "wailmer",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "wailord": {
+        "Pokedex Number": "321",
+        "Pokemon Name": "wailord",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "numel": {
+        "Pokedex Number": "322",
+        "Pokemon Name": "numel",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "camerupt": {
+        "Pokedex Number": "323",
+        "Pokemon Name": "camerupt",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "torkoal": {
+        "Pokedex Number": "324",
+        "Pokemon Name": "torkoal",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "spoink": {
+        "Pokedex Number": "325",
+        "Pokemon Name": "spoink",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "grumpig": {
+        "Pokedex Number": "326",
+        "Pokemon Name": "grumpig",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "spinda": {
+        "Pokedex Number": "327",
+        "Pokemon Name": "spinda",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "trapinch": {
+        "Pokedex Number": "328",
+        "Pokemon Name": "trapinch",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vibrava": {
+        "Pokedex Number": "329",
+        "Pokemon Name": "vibrava",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "flygon": {
+        "Pokedex Number": "330",
+        "Pokemon Name": "flygon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cacnea": {
+        "Pokedex Number": "331",
+        "Pokemon Name": "cacnea",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "cacturne": {
+        "Pokedex Number": "332",
+        "Pokemon Name": "cacturne",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "swablu": {
+        "Pokedex Number": "333",
+        "Pokemon Name": "swablu",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "altaria": {
+        "Pokedex Number": "334",
+        "Pokemon Name": "altaria",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "zangoose": {
+        "Pokedex Number": "335",
+        "Pokemon Name": "zangoose",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Omega Ruby"
+    },
+    "seviper": {
+        "Pokedex Number": "336",
+        "Pokemon Name": "seviper",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Alpha Sapphire"
+    },
+    "lunatone": {
+        "Pokedex Number": "337",
+        "Pokemon Name": "lunatone",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "solrock": {
+        "Pokedex Number": "338",
+        "Pokemon Name": "solrock",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "barboach": {
+        "Pokedex Number": "339",
+        "Pokemon Name": "barboach",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "whiscash": {
+        "Pokedex Number": "340",
+        "Pokemon Name": "whiscash",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "corphish": {
+        "Pokedex Number": "341",
+        "Pokemon Name": "corphish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "crawdaunt": {
+        "Pokedex Number": "342",
+        "Pokemon Name": "crawdaunt",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "baltoy": {
+        "Pokedex Number": "343",
+        "Pokemon Name": "baltoy",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "claydol": {
+        "Pokedex Number": "344",
+        "Pokemon Name": "claydol",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "lileep": {
+        "Pokedex Number": "345",
+        "Pokemon Name": "lileep",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "cradily": {
+        "Pokedex Number": "346",
+        "Pokemon Name": "cradily",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "anorith": {
+        "Pokedex Number": "347",
+        "Pokemon Name": "anorith",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "armaldo": {
+        "Pokedex Number": "348",
+        "Pokemon Name": "armaldo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "feebas": {
+        "Pokedex Number": "349",
+        "Pokemon Name": "feebas",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "milotic": {
+        "Pokedex Number": "350",
+        "Pokemon Name": "milotic",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "castform": {
+        "Pokedex Number": "351",
+        "Pokemon Name": "castform",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "kecleon": {
+        "Pokedex Number": "352",
+        "Pokemon Name": "kecleon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "shuppet": {
+        "Pokedex Number": "353",
+        "Pokemon Name": "shuppet",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "banette": {
+        "Pokedex Number": "354",
+        "Pokemon Name": "banette",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "duskull": {
+        "Pokedex Number": "355",
+        "Pokemon Name": "duskull",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dusclops": {
+        "Pokedex Number": "356",
+        "Pokemon Name": "dusclops",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tropius": {
+        "Pokedex Number": "357",
+        "Pokemon Name": "tropius",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "chimecho": {
+        "Pokedex Number": "358",
+        "Pokemon Name": "chimecho",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "absol": {
+        "Pokedex Number": "359",
+        "Pokemon Name": "absol",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "wynaut": {
+        "Pokedex Number": "360",
+        "Pokemon Name": "wynaut",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "snorunt": {
+        "Pokedex Number": "361",
+        "Pokemon Name": "snorunt",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "glalie": {
+        "Pokedex Number": "362",
+        "Pokemon Name": "glalie",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "spheal": {
+        "Pokedex Number": "363",
+        "Pokemon Name": "spheal",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "sealeo": {
+        "Pokedex Number": "364",
+        "Pokemon Name": "sealeo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "walrein": {
+        "Pokedex Number": "365",
+        "Pokemon Name": "walrein",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "clamperl": {
+        "Pokedex Number": "366",
+        "Pokemon Name": "clamperl",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "huntail": {
+        "Pokedex Number": "367",
+        "Pokemon Name": "huntail",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "gorebyss": {
+        "Pokedex Number": "368",
+        "Pokemon Name": "gorebyss",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "relicanth": {
+        "Pokedex Number": "369",
+        "Pokemon Name": "relicanth",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "luvdisc": {
+        "Pokedex Number": "370",
+        "Pokemon Name": "luvdisc",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "bagon": {
+        "Pokedex Number": "371",
+        "Pokemon Name": "bagon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "shelgon": {
+        "Pokedex Number": "372",
+        "Pokemon Name": "shelgon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "salamence": {
+        "Pokedex Number": "373",
+        "Pokemon Name": "salamence",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "beldum": {
+        "Pokedex Number": "374",
+        "Pokemon Name": "beldum",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "metang": {
+        "Pokedex Number": "375",
+        "Pokemon Name": "metang",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "metagross": {
+        "Pokedex Number": "376",
+        "Pokemon Name": "metagross",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "regirock": {
+        "Pokedex Number": "377",
+        "Pokemon Name": "regirock",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "regice": {
+        "Pokedex Number": "378",
+        "Pokemon Name": "regice",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "registeel": {
+        "Pokedex Number": "379",
+        "Pokemon Name": "registeel",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "latias": {
+        "Pokedex Number": "380",
+        "Pokemon Name": "latias",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "latios": {
+        "Pokedex Number": "381",
+        "Pokemon Name": "latios",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "kyogre": {
+        "Pokedex Number": "382",
+        "Pokemon Name": "kyogre",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "groudon": {
+        "Pokedex Number": "383",
+        "Pokemon Name": "groudon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "rayquaza": {
+        "Pokedex Number": "384",
+        "Pokemon Name": "rayquaza",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "jirachi": {
+        "Pokedex Number": "385",
+        "Pokemon Name": "jirachi",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "deoxys": {
+        "Pokedex Number": "386",
+        "Pokemon Name": "deoxys",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "turtwig": {
+        "Pokedex Number": "387",
+        "Pokemon Name": "turtwig",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "grotle": {
+        "Pokedex Number": "388",
+        "Pokemon Name": "grotle",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "torterra": {
+        "Pokedex Number": "389",
+        "Pokemon Name": "torterra",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "chimchar": {
+        "Pokedex Number": "390",
+        "Pokemon Name": "chimchar",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "monferno": {
+        "Pokedex Number": "391",
+        "Pokemon Name": "monferno",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "infernape": {
+        "Pokedex Number": "392",
+        "Pokemon Name": "infernape",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "piplup": {
+        "Pokedex Number": "393",
+        "Pokemon Name": "piplup",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "prinplup": {
+        "Pokedex Number": "394",
+        "Pokemon Name": "prinplup",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "empoleon": {
+        "Pokedex Number": "395",
+        "Pokemon Name": "empoleon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "starly": {
+        "Pokedex Number": "396",
+        "Pokemon Name": "starly",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "staravia": {
+        "Pokedex Number": "397",
+        "Pokemon Name": "staravia",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "staraptor": {
+        "Pokedex Number": "398",
+        "Pokemon Name": "staraptor",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "bidoof": {
+        "Pokedex Number": "399",
+        "Pokemon Name": "bidoof",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "bibarel": {
+        "Pokedex Number": "400",
+        "Pokemon Name": "bibarel",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "kricketot": {
+        "Pokedex Number": "401",
+        "Pokemon Name": "kricketot",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "kricketune": {
+        "Pokedex Number": "402",
+        "Pokemon Name": "kricketune",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "shinx": {
+        "Pokedex Number": "403",
+        "Pokemon Name": "shinx",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "luxio": {
+        "Pokedex Number": "404",
+        "Pokemon Name": "luxio",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "luxray": {
+        "Pokedex Number": "405",
+        "Pokemon Name": "luxray",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "budew": {
+        "Pokedex Number": "406",
+        "Pokemon Name": "budew",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "roserade": {
+        "Pokedex Number": "407",
+        "Pokemon Name": "roserade",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cranidos": {
+        "Pokedex Number": "408",
+        "Pokemon Name": "cranidos",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "rampardos": {
+        "Pokedex Number": "409",
+        "Pokemon Name": "rampardos",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "shieldon": {
+        "Pokedex Number": "410",
+        "Pokemon Name": "shieldon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "bastiodon": {
+        "Pokedex Number": "411",
+        "Pokemon Name": "bastiodon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "burmy": {
+        "Pokedex Number": "412",
+        "Pokemon Name": "burmy",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "wormadam": {
+        "Pokedex Number": "413",
+        "Pokemon Name": "wormadam",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "mothim": {
+        "Pokedex Number": "414",
+        "Pokemon Name": "mothim",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "combee": {
+        "Pokedex Number": "415",
+        "Pokemon Name": "combee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vespiquen": {
+        "Pokedex Number": "416",
+        "Pokemon Name": "vespiquen",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pachirisu": {
+        "Pokedex Number": "417",
+        "Pokemon Name": "pachirisu",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "buizel": {
+        "Pokedex Number": "418",
+        "Pokemon Name": "buizel",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "floatzel": {
+        "Pokedex Number": "419",
+        "Pokemon Name": "floatzel",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "cherubi": {
+        "Pokedex Number": "420",
+        "Pokemon Name": "cherubi",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cherrim": {
+        "Pokedex Number": "421",
+        "Pokemon Name": "cherrim",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "shellos": {
+        "Pokedex Number": "422",
+        "Pokemon Name": "shellos",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gastrodon": {
+        "Pokedex Number": "423",
+        "Pokemon Name": "gastrodon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ambipom": {
+        "Pokedex Number": "424",
+        "Pokemon Name": "ambipom",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "drifloon": {
+        "Pokedex Number": "425",
+        "Pokemon Name": "drifloon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "drifblim": {
+        "Pokedex Number": "426",
+        "Pokemon Name": "drifblim",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "buneary": {
+        "Pokedex Number": "427",
+        "Pokemon Name": "buneary",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "lopunny": {
+        "Pokedex Number": "428",
+        "Pokemon Name": "lopunny",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "mismagius": {
+        "Pokedex Number": "429",
+        "Pokemon Name": "mismagius",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "honchkrow": {
+        "Pokedex Number": "430",
+        "Pokemon Name": "honchkrow",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "glameow": {
+        "Pokedex Number": "431",
+        "Pokemon Name": "glameow",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "purugly": {
+        "Pokedex Number": "432",
+        "Pokemon Name": "purugly",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "chingling": {
+        "Pokedex Number": "433",
+        "Pokemon Name": "chingling",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "stunky": {
+        "Pokedex Number": "434",
+        "Pokemon Name": "stunky",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "skuntank": {
+        "Pokedex Number": "435",
+        "Pokemon Name": "skuntank",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bronzor": {
+        "Pokedex Number": "436",
+        "Pokemon Name": "bronzor",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bronzong": {
+        "Pokedex Number": "437",
+        "Pokemon Name": "bronzong",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bonsly": {
+        "Pokedex Number": "438",
+        "Pokemon Name": "bonsly",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mime junior": {
+        "Pokedex Number": "439",
+        "Pokemon Name": "mime junior",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "happiny": {
+        "Pokedex Number": "440",
+        "Pokemon Name": "happiny",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "chatot": {
+        "Pokedex Number": "441",
+        "Pokemon Name": "chatot",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "spiritomb": {
+        "Pokedex Number": "442",
+        "Pokemon Name": "spiritomb",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "gible": {
+        "Pokedex Number": "443",
+        "Pokemon Name": "gible",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "gabite": {
+        "Pokedex Number": "444",
+        "Pokemon Name": "gabite",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "garchomp": {
+        "Pokedex Number": "445",
+        "Pokemon Name": "garchomp",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "munchlax": {
+        "Pokedex Number": "446",
+        "Pokemon Name": "munchlax",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "riolu": {
+        "Pokedex Number": "447",
+        "Pokemon Name": "riolu",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "lucario": {
+        "Pokedex Number": "448",
+        "Pokemon Name": "lucario",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hippopotas": {
+        "Pokedex Number": "449",
+        "Pokemon Name": "hippopotas",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hippowdon": {
+        "Pokedex Number": "450",
+        "Pokemon Name": "hippowdon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "skorupi": {
+        "Pokedex Number": "451",
+        "Pokemon Name": "skorupi",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "drapion": {
+        "Pokedex Number": "452",
+        "Pokemon Name": "drapion",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "croagunk": {
+        "Pokedex Number": "453",
+        "Pokemon Name": "croagunk",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "toxicroak": {
+        "Pokedex Number": "454",
+        "Pokemon Name": "toxicroak",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "carnivine": {
+        "Pokedex Number": "455",
+        "Pokemon Name": "carnivine",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "finneon": {
+        "Pokedex Number": "456",
+        "Pokemon Name": "finneon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "lumineon": {
+        "Pokedex Number": "457",
+        "Pokemon Name": "lumineon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "mantyke": {
+        "Pokedex Number": "458",
+        "Pokemon Name": "mantyke",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "snover": {
+        "Pokedex Number": "459",
+        "Pokemon Name": "snover",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "abomasnow": {
+        "Pokedex Number": "460",
+        "Pokemon Name": "abomasnow",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "weavile": {
+        "Pokedex Number": "461",
+        "Pokemon Name": "weavile",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "magnezone": {
+        "Pokedex Number": "462",
+        "Pokemon Name": "magnezone",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "lickilicky": {
+        "Pokedex Number": "463",
+        "Pokemon Name": "lickilicky",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "rhyperior": {
+        "Pokedex Number": "464",
+        "Pokemon Name": "rhyperior",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tangrowth": {
+        "Pokedex Number": "465",
+        "Pokemon Name": "tangrowth",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "electivire": {
+        "Pokedex Number": "466",
+        "Pokemon Name": "electivire",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "magmortar": {
+        "Pokedex Number": "467",
+        "Pokemon Name": "magmortar",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "togekiss": {
+        "Pokedex Number": "468",
+        "Pokemon Name": "togekiss",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "yanmega": {
+        "Pokedex Number": "469",
+        "Pokemon Name": "yanmega",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "leafeon": {
+        "Pokedex Number": "470",
+        "Pokemon Name": "leafeon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "glaceon": {
+        "Pokedex Number": "471",
+        "Pokemon Name": "glaceon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gliscor": {
+        "Pokedex Number": "472",
+        "Pokemon Name": "gliscor",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "mamoswine": {
+        "Pokedex Number": "473",
+        "Pokemon Name": "mamoswine",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "porygon z": {
+        "Pokedex Number": "474",
+        "Pokemon Name": "porygon z",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "gallade": {
+        "Pokedex Number": "475",
+        "Pokemon Name": "gallade",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "probopass": {
+        "Pokedex Number": "476",
+        "Pokemon Name": "probopass",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "dusknoir": {
+        "Pokedex Number": "477",
+        "Pokemon Name": "dusknoir",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "froslass": {
+        "Pokedex Number": "478",
+        "Pokemon Name": "froslass",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "rotom": {
+        "Pokedex Number": "479",
+        "Pokemon Name": "rotom",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "uxie": {
+        "Pokedex Number": "480",
+        "Pokemon Name": "uxie",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "mesprit": {
+        "Pokedex Number": "481",
+        "Pokemon Name": "mesprit",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "azelf": {
+        "Pokedex Number": "482",
+        "Pokemon Name": "azelf",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "dialga": {
+        "Pokedex Number": "483",
+        "Pokemon Name": "dialga",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "palkia": {
+        "Pokedex Number": "484",
+        "Pokemon Name": "palkia",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "heatran": {
+        "Pokedex Number": "485",
+        "Pokemon Name": "heatran",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "regigigas": {
+        "Pokedex Number": "486",
+        "Pokemon Name": "regigigas",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "giratina": {
+        "Pokedex Number": "487",
+        "Pokemon Name": "giratina",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "cresselia": {
+        "Pokedex Number": "488",
+        "Pokemon Name": "cresselia",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "phione": {
+        "Pokedex Number": "489",
+        "Pokemon Name": "phione",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "manaphy": {
+        "Pokedex Number": "490",
+        "Pokemon Name": "manaphy",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "darkrai": {
+        "Pokedex Number": "491",
+        "Pokemon Name": "darkrai",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "shaymin": {
+        "Pokedex Number": "492",
+        "Pokemon Name": "shaymin",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "arceus": {
+        "Pokedex Number": "493",
+        "Pokemon Name": "arceus",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "victini": {
+        "Pokedex Number": "494",
+        "Pokemon Name": "victini",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "snivy": {
+        "Pokedex Number": "495",
+        "Pokemon Name": "snivy",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "servine": {
+        "Pokedex Number": "496",
+        "Pokemon Name": "servine",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "serperior": {
+        "Pokedex Number": "497",
+        "Pokemon Name": "serperior",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "tepig": {
+        "Pokedex Number": "498",
+        "Pokemon Name": "tepig",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "pignite": {
+        "Pokedex Number": "499",
+        "Pokemon Name": "pignite",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "emboar": {
+        "Pokedex Number": "500",
+        "Pokemon Name": "emboar",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "oshawott": {
+        "Pokedex Number": "501",
+        "Pokemon Name": "oshawott",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "dewott": {
+        "Pokedex Number": "502",
+        "Pokemon Name": "dewott",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "samurott": {
+        "Pokedex Number": "503",
+        "Pokemon Name": "samurott",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "patrat": {
+        "Pokedex Number": "504",
+        "Pokemon Name": "patrat",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "watchog": {
+        "Pokedex Number": "505",
+        "Pokemon Name": "watchog",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "lillipup": {
+        "Pokedex Number": "506",
+        "Pokemon Name": "lillipup",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "herdier": {
+        "Pokedex Number": "507",
+        "Pokemon Name": "herdier",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "stoutland": {
+        "Pokedex Number": "508",
+        "Pokemon Name": "stoutland",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "purrloin": {
+        "Pokedex Number": "509",
+        "Pokemon Name": "purrloin",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "liepard": {
+        "Pokedex Number": "510",
+        "Pokemon Name": "liepard",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pansage": {
+        "Pokedex Number": "511",
+        "Pokemon Name": "pansage",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "simisage": {
+        "Pokedex Number": "512",
+        "Pokemon Name": "simisage",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "pansear": {
+        "Pokedex Number": "513",
+        "Pokemon Name": "pansear",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "simisear": {
+        "Pokedex Number": "514",
+        "Pokemon Name": "simisear",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "panpour": {
+        "Pokedex Number": "515",
+        "Pokemon Name": "panpour",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "simipour": {
+        "Pokedex Number": "516",
+        "Pokemon Name": "simipour",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "munna": {
+        "Pokedex Number": "517",
+        "Pokemon Name": "munna",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "musharna": {
+        "Pokedex Number": "518",
+        "Pokemon Name": "musharna",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pidove": {
+        "Pokedex Number": "519",
+        "Pokemon Name": "pidove",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tranquill": {
+        "Pokedex Number": "520",
+        "Pokemon Name": "tranquill",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "unfezant": {
+        "Pokedex Number": "521",
+        "Pokemon Name": "unfezant",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "blitzle": {
+        "Pokedex Number": "522",
+        "Pokemon Name": "blitzle",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "zebstrika": {
+        "Pokedex Number": "523",
+        "Pokemon Name": "zebstrika",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "roggenrola": {
+        "Pokedex Number": "524",
+        "Pokemon Name": "roggenrola",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "boldore": {
+        "Pokedex Number": "525",
+        "Pokemon Name": "boldore",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gigalith": {
+        "Pokedex Number": "526",
+        "Pokemon Name": "gigalith",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "woobat": {
+        "Pokedex Number": "527",
+        "Pokemon Name": "woobat",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "swoobat": {
+        "Pokedex Number": "528",
+        "Pokemon Name": "swoobat",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "drilbur": {
+        "Pokedex Number": "529",
+        "Pokemon Name": "drilbur",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "excadrill": {
+        "Pokedex Number": "530",
+        "Pokemon Name": "excadrill",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "audino": {
+        "Pokedex Number": "531",
+        "Pokemon Name": "audino",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "timburr": {
+        "Pokedex Number": "532",
+        "Pokemon Name": "timburr",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gurdurr": {
+        "Pokedex Number": "533",
+        "Pokemon Name": "gurdurr",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "conkeldurr": {
+        "Pokedex Number": "534",
+        "Pokemon Name": "conkeldurr",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tympole": {
+        "Pokedex Number": "535",
+        "Pokemon Name": "tympole",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "palpitoad": {
+        "Pokedex Number": "536",
+        "Pokemon Name": "palpitoad",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "seismitoad": {
+        "Pokedex Number": "537",
+        "Pokemon Name": "seismitoad",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "throh": {
+        "Pokedex Number": "538",
+        "Pokemon Name": "throh",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sawk": {
+        "Pokedex Number": "539",
+        "Pokemon Name": "sawk",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sewaddle": {
+        "Pokedex Number": "540",
+        "Pokemon Name": "sewaddle",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "swadloon": {
+        "Pokedex Number": "541",
+        "Pokemon Name": "swadloon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "leavanny": {
+        "Pokedex Number": "542",
+        "Pokemon Name": "leavanny",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "venipede": {
+        "Pokedex Number": "543",
+        "Pokemon Name": "venipede",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "whirlipede": {
+        "Pokedex Number": "544",
+        "Pokemon Name": "whirlipede",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "scolipede": {
+        "Pokedex Number": "545",
+        "Pokemon Name": "scolipede",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Sun and Moon"
+    },
+    "cottonee": {
+        "Pokedex Number": "546",
+        "Pokemon Name": "cottonee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "whimsicott": {
+        "Pokedex Number": "547",
+        "Pokemon Name": "whimsicott",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "petilil": {
+        "Pokedex Number": "548",
+        "Pokemon Name": "petilil",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "lilligant": {
+        "Pokedex Number": "549",
+        "Pokemon Name": "lilligant",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon Moon"
+    },
+    "basculin ": {
+        "Pokedex Number": "550",
+        "Pokemon Name": "basculin ",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sandile": {
+        "Pokedex Number": "551",
+        "Pokemon Name": "sandile",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "krokorok": {
+        "Pokedex Number": "552",
+        "Pokemon Name": "krokorok",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "krookodile": {
+        "Pokedex Number": "553",
+        "Pokemon Name": "krookodile",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "darumaka": {
+        "Pokedex Number": "554",
+        "Pokemon Name": "darumaka",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "darmanitan": {
+        "Pokedex Number": "555",
+        "Pokemon Name": "darmanitan",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "maractus": {
+        "Pokedex Number": "556",
+        "Pokemon Name": "maractus",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dwebble": {
+        "Pokedex Number": "557",
+        "Pokemon Name": "dwebble",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "crustle": {
+        "Pokedex Number": "558",
+        "Pokemon Name": "crustle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "scraggy": {
+        "Pokedex Number": "559",
+        "Pokemon Name": "scraggy",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "scrafty": {
+        "Pokedex Number": "560",
+        "Pokemon Name": "scrafty",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "sigilyph": {
+        "Pokedex Number": "561",
+        "Pokemon Name": "sigilyph",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "yamask": {
+        "Pokedex Number": "562",
+        "Pokemon Name": "yamask",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cofagrigus": {
+        "Pokedex Number": "563",
+        "Pokemon Name": "cofagrigus",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tirtouga": {
+        "Pokedex Number": "564",
+        "Pokemon Name": "tirtouga",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "carracosta": {
+        "Pokedex Number": "565",
+        "Pokemon Name": "carracosta",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "archen": {
+        "Pokedex Number": "566",
+        "Pokemon Name": "archen",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "archeops": {
+        "Pokedex Number": "567",
+        "Pokemon Name": "archeops",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "trubbish": {
+        "Pokedex Number": "568",
+        "Pokemon Name": "trubbish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "garbodor": {
+        "Pokedex Number": "569",
+        "Pokemon Name": "garbodor",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "zorua": {
+        "Pokedex Number": "570",
+        "Pokemon Name": "zorua",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "zoroark": {
+        "Pokedex Number": "571",
+        "Pokemon Name": "zoroark",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "minccino": {
+        "Pokedex Number": "572",
+        "Pokemon Name": "minccino",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cinccino": {
+        "Pokedex Number": "573",
+        "Pokemon Name": "cinccino",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gothita": {
+        "Pokedex Number": "574",
+        "Pokemon Name": "gothita",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "gothorita": {
+        "Pokedex Number": "575",
+        "Pokemon Name": "gothorita",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "gothitelle": {
+        "Pokedex Number": "576",
+        "Pokemon Name": "gothitelle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "solosis": {
+        "Pokedex Number": "577",
+        "Pokemon Name": "solosis",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "duosion": {
+        "Pokedex Number": "578",
+        "Pokemon Name": "duosion",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "reuniclus": {
+        "Pokedex Number": "579",
+        "Pokemon Name": "reuniclus",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "ducklett": {
+        "Pokedex Number": "580",
+        "Pokemon Name": "ducklett",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "swanna": {
+        "Pokedex Number": "581",
+        "Pokemon Name": "swanna",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "vanillite": {
+        "Pokedex Number": "582",
+        "Pokemon Name": "vanillite",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vanillish": {
+        "Pokedex Number": "583",
+        "Pokemon Name": "vanillish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vanilluxe": {
+        "Pokedex Number": "584",
+        "Pokemon Name": "vanilluxe",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "deerling": {
+        "Pokedex Number": "585",
+        "Pokemon Name": "deerling",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "sawsbuck": {
+        "Pokedex Number": "586",
+        "Pokemon Name": "sawsbuck",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "emolga": {
+        "Pokedex Number": "587",
+        "Pokemon Name": "emolga",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "karrablast": {
+        "Pokedex Number": "588",
+        "Pokemon Name": "karrablast",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "escavalier": {
+        "Pokedex Number": "589",
+        "Pokemon Name": "escavalier",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "foongus": {
+        "Pokedex Number": "590",
+        "Pokemon Name": "foongus",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "amoonguss": {
+        "Pokedex Number": "591",
+        "Pokemon Name": "amoonguss",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "frillish": {
+        "Pokedex Number": "592",
+        "Pokemon Name": "frillish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "jellicent": {
+        "Pokedex Number": "593",
+        "Pokemon Name": "jellicent",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "alomomola": {
+        "Pokedex Number": "594",
+        "Pokemon Name": "alomomola",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "joltik": {
+        "Pokedex Number": "595",
+        "Pokemon Name": "joltik",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "galvantula": {
+        "Pokedex Number": "596",
+        "Pokemon Name": "galvantula",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ferroseed": {
+        "Pokedex Number": "597",
+        "Pokemon Name": "ferroseed",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ferrothorn": {
+        "Pokedex Number": "598",
+        "Pokemon Name": "ferrothorn",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "klink": {
+        "Pokedex Number": "599",
+        "Pokemon Name": "klink",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "klang": {
+        "Pokedex Number": "600",
+        "Pokemon Name": "klang",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "klinklang": {
+        "Pokedex Number": "601",
+        "Pokemon Name": "klinklang",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tynamo": {
+        "Pokedex Number": "602",
+        "Pokemon Name": "tynamo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "eelektrik": {
+        "Pokedex Number": "603",
+        "Pokemon Name": "eelektrik",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "eelektross": {
+        "Pokedex Number": "604",
+        "Pokemon Name": "eelektross",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "elgyem": {
+        "Pokedex Number": "605",
+        "Pokemon Name": "elgyem",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "beheeyem": {
+        "Pokedex Number": "606",
+        "Pokemon Name": "beheeyem",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "litwick": {
+        "Pokedex Number": "607",
+        "Pokemon Name": "litwick",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "lampent": {
+        "Pokedex Number": "608",
+        "Pokemon Name": "lampent",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "chandelure": {
+        "Pokedex Number": "609",
+        "Pokemon Name": "chandelure",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "axew": {
+        "Pokedex Number": "610",
+        "Pokemon Name": "axew",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "fraxure": {
+        "Pokedex Number": "611",
+        "Pokemon Name": "fraxure",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "haxorus": {
+        "Pokedex Number": "612",
+        "Pokemon Name": "haxorus",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cubchoo": {
+        "Pokedex Number": "613",
+        "Pokemon Name": "cubchoo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "beartic": {
+        "Pokedex Number": "614",
+        "Pokemon Name": "beartic",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cryogonal": {
+        "Pokedex Number": "615",
+        "Pokemon Name": "cryogonal",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "shelmet": {
+        "Pokedex Number": "616",
+        "Pokemon Name": "shelmet",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "accelgor": {
+        "Pokedex Number": "617",
+        "Pokemon Name": "accelgor",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "stunfisk": {
+        "Pokedex Number": "618",
+        "Pokemon Name": "stunfisk",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mienfoo": {
+        "Pokedex Number": "619",
+        "Pokemon Name": "mienfoo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "mienshao": {
+        "Pokedex Number": "620",
+        "Pokemon Name": "mienshao",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "druddigon": {
+        "Pokedex Number": "621",
+        "Pokemon Name": "druddigon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "golett": {
+        "Pokedex Number": "622",
+        "Pokemon Name": "golett",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "golurk": {
+        "Pokedex Number": "623",
+        "Pokemon Name": "golurk",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pawniard": {
+        "Pokedex Number": "624",
+        "Pokemon Name": "pawniard",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bisharp": {
+        "Pokedex Number": "625",
+        "Pokemon Name": "bisharp",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bouffalant": {
+        "Pokedex Number": "626",
+        "Pokemon Name": "bouffalant",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "rufflet": {
+        "Pokedex Number": "627",
+        "Pokemon Name": "rufflet",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "braviary": {
+        "Pokedex Number": "628",
+        "Pokemon Name": "braviary",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "vullaby": {
+        "Pokedex Number": "629",
+        "Pokemon Name": "vullaby",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "mandibuzz": {
+        "Pokedex Number": "630",
+        "Pokemon Name": "mandibuzz",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "heatmor": {
+        "Pokedex Number": "631",
+        "Pokemon Name": "heatmor",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "durant": {
+        "Pokedex Number": "632",
+        "Pokemon Name": "durant",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "deino": {
+        "Pokedex Number": "633",
+        "Pokemon Name": "deino",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "zweilous": {
+        "Pokedex Number": "634",
+        "Pokemon Name": "zweilous",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "hydreigon": {
+        "Pokedex Number": "635",
+        "Pokemon Name": "hydreigon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "larvesta": {
+        "Pokedex Number": "636",
+        "Pokemon Name": "larvesta",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "volcarona": {
+        "Pokedex Number": "637",
+        "Pokemon Name": "volcarona",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "cobalion": {
+        "Pokedex Number": "638",
+        "Pokemon Name": "cobalion",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "terrakion": {
+        "Pokedex Number": "639",
+        "Pokemon Name": "terrakion",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "virizion": {
+        "Pokedex Number": "640",
+        "Pokemon Name": "virizion",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "tornadus": {
+        "Pokedex Number": "641",
+        "Pokemon Name": "tornadus",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "thundurus": {
+        "Pokedex Number": "642",
+        "Pokemon Name": "thundurus",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "reshiram": {
+        "Pokedex Number": "643",
+        "Pokemon Name": "reshiram",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "zekrom": {
+        "Pokedex Number": "644",
+        "Pokemon Name": "zekrom",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "landorus": {
+        "Pokedex Number": "645",
+        "Pokemon Name": "landorus",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "kyurem": {
+        "Pokedex Number": "646",
+        "Pokemon Name": "kyurem",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "keldeo": {
+        "Pokedex Number": "647",
+        "Pokemon Name": "keldeo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "ORAS"
+    },
+    "meloetta": {
+        "Pokedex Number": "648",
+        "Pokemon Name": "meloetta",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "genesect": {
+        "Pokedex Number": "649",
+        "Pokemon Name": "genesect",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "chespin": {
+        "Pokedex Number": "650",
+        "Pokemon Name": "chespin",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "quilladin": {
+        "Pokedex Number": "651",
+        "Pokemon Name": "quilladin",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "chesnaught": {
+        "Pokedex Number": "652",
+        "Pokemon Name": "chesnaught",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "fennekin": {
+        "Pokedex Number": "653",
+        "Pokemon Name": "fennekin",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "braixen": {
+        "Pokedex Number": "654",
+        "Pokemon Name": "braixen",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "delphox": {
+        "Pokedex Number": "655",
+        "Pokemon Name": "delphox",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "froakie": {
+        "Pokedex Number": "656",
+        "Pokemon Name": "froakie",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "frogadier": {
+        "Pokedex Number": "657",
+        "Pokemon Name": "frogadier",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "greninja": {
+        "Pokedex Number": "658",
+        "Pokemon Name": "greninja",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "bunnelby": {
+        "Pokedex Number": "659",
+        "Pokemon Name": "bunnelby",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "diggersby": {
+        "Pokedex Number": "660",
+        "Pokemon Name": "diggersby",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "fletchling": {
+        "Pokedex Number": "661",
+        "Pokemon Name": "fletchling",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "fletchinder": {
+        "Pokedex Number": "662",
+        "Pokemon Name": "fletchinder",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "talonflame": {
+        "Pokedex Number": "663",
+        "Pokemon Name": "talonflame",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "scatterbug": {
+        "Pokedex Number": "664",
+        "Pokemon Name": "scatterbug",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "spewpa": {
+        "Pokedex Number": "665",
+        "Pokemon Name": "spewpa",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "vivillon": {
+        "Pokedex Number": "666",
+        "Pokemon Name": "vivillon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "litleo": {
+        "Pokedex Number": "667",
+        "Pokemon Name": "litleo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "pyroar": {
+        "Pokedex Number": "668",
+        "Pokemon Name": "pyroar",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "flabebe": {
+        "Pokedex Number": "669",
+        "Pokemon Name": "flabebe",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "floette": {
+        "Pokedex Number": "670",
+        "Pokemon Name": "floette",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "florges": {
+        "Pokedex Number": "671",
+        "Pokemon Name": "florges",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "skiddo": {
+        "Pokedex Number": "672",
+        "Pokemon Name": "skiddo",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "gogoat": {
+        "Pokedex Number": "673",
+        "Pokemon Name": "gogoat",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Pokemon X and Y"
+    },
+    "pancham": {
+        "Pokedex Number": "674",
+        "Pokemon Name": "pancham",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pangoro": {
+        "Pokedex Number": "675",
+        "Pokemon Name": "pangoro",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "furfrou": {
+        "Pokedex Number": "676",
+        "Pokemon Name": "furfrou",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "espurr": {
+        "Pokedex Number": "677",
+        "Pokemon Name": "espurr",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "meowstic": {
+        "Pokedex Number": "678",
+        "Pokemon Name": "meowstic",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "honedge": {
+        "Pokedex Number": "679",
+        "Pokemon Name": "honedge",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "doublade": {
+        "Pokedex Number": "680",
+        "Pokemon Name": "doublade",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "aegislash": {
+        "Pokedex Number": "681",
+        "Pokemon Name": "aegislash",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "spritzee": {
+        "Pokedex Number": "682",
+        "Pokemon Name": "spritzee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "aromatisse": {
+        "Pokedex Number": "683",
+        "Pokemon Name": "aromatisse",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "swirlix": {
+        "Pokedex Number": "684",
+        "Pokemon Name": "swirlix",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "slurpuff": {
+        "Pokedex Number": "685",
+        "Pokemon Name": "slurpuff",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "inkay": {
+        "Pokedex Number": "686",
+        "Pokemon Name": "inkay",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "malamar": {
+        "Pokedex Number": "687",
+        "Pokemon Name": "malamar",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "binacle": {
+        "Pokedex Number": "688",
+        "Pokemon Name": "binacle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "barbaracle": {
+        "Pokedex Number": "689",
+        "Pokemon Name": "barbaracle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "skrelp": {
+        "Pokedex Number": "690",
+        "Pokemon Name": "skrelp",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "dragalge": {
+        "Pokedex Number": "691",
+        "Pokemon Name": "dragalge",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "clauncher": {
+        "Pokedex Number": "692",
+        "Pokemon Name": "clauncher",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "clawitzer": {
+        "Pokedex Number": "693",
+        "Pokemon Name": "clawitzer",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "helioptile": {
+        "Pokedex Number": "694",
+        "Pokemon Name": "helioptile",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "heliolisk": {
+        "Pokedex Number": "695",
+        "Pokemon Name": "heliolisk",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tyrunt": {
+        "Pokedex Number": "696",
+        "Pokemon Name": "tyrunt",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "tyrantrum": {
+        "Pokedex Number": "697",
+        "Pokemon Name": "tyrantrum",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "amaura": {
+        "Pokedex Number": "698",
+        "Pokemon Name": "amaura",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "aurorus": {
+        "Pokedex Number": "699",
+        "Pokemon Name": "aurorus",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "sylveon": {
+        "Pokedex Number": "700",
+        "Pokemon Name": "sylveon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hawlucha": {
+        "Pokedex Number": "701",
+        "Pokemon Name": "hawlucha",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dedenne": {
+        "Pokedex Number": "702",
+        "Pokemon Name": "dedenne",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "carbink": {
+        "Pokedex Number": "703",
+        "Pokemon Name": "carbink",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "goomy": {
+        "Pokedex Number": "704",
+        "Pokemon Name": "goomy",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "sliggoo": {
+        "Pokedex Number": "705",
+        "Pokemon Name": "sliggoo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "goodra": {
+        "Pokedex Number": "706",
+        "Pokemon Name": "goodra",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "klefki": {
+        "Pokedex Number": "707",
+        "Pokemon Name": "klefki",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "phantump": {
+        "Pokedex Number": "708",
+        "Pokemon Name": "phantump",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "trevenant": {
+        "Pokedex Number": "709",
+        "Pokemon Name": "trevenant",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pumpkaboo": {
+        "Pokedex Number": "710",
+        "Pokemon Name": "pumpkaboo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gourgeist": {
+        "Pokedex Number": "711",
+        "Pokemon Name": "gourgeist",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bergmite": {
+        "Pokedex Number": "712",
+        "Pokemon Name": "bergmite",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "avalugg": {
+        "Pokedex Number": "713",
+        "Pokemon Name": "avalugg",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "noibat": {
+        "Pokedex Number": "714",
+        "Pokemon Name": "noibat",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "noivern": {
+        "Pokedex Number": "715",
+        "Pokemon Name": "noivern",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "xerneas": {
+        "Pokedex Number": "716",
+        "Pokemon Name": "xerneas",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "yveltal": {
+        "Pokedex Number": "717",
+        "Pokemon Name": "yveltal",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "zygarde": {
+        "Pokedex Number": "718",
+        "Pokemon Name": "zygarde",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "diancie": {
+        "Pokedex Number": "719",
+        "Pokemon Name": "diancie",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "hoopa": {
+        "Pokedex Number": "720",
+        "Pokemon Name": "hoopa",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "volcanion": {
+        "Pokedex Number": "721",
+        "Pokemon Name": "volcanion",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "ORAS"
+    },
+    "rowlet": {
+        "Pokedex Number": "722",
+        "Pokemon Name": "rowlet",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "dartrix": {
+        "Pokedex Number": "723",
+        "Pokemon Name": "dartrix",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "decidueye": {
+        "Pokedex Number": "724",
+        "Pokemon Name": "decidueye",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "litten": {
+        "Pokedex Number": "725",
+        "Pokemon Name": "litten",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "torracat": {
+        "Pokedex Number": "726",
+        "Pokemon Name": "torracat",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "incineroar": {
+        "Pokedex Number": "727",
+        "Pokemon Name": "incineroar",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "popplio": {
+        "Pokedex Number": "728",
+        "Pokemon Name": "popplio",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "brionne": {
+        "Pokedex Number": "729",
+        "Pokemon Name": "brionne",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "primarina": {
+        "Pokedex Number": "730",
+        "Pokemon Name": "primarina",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "pikipek": {
+        "Pokedex Number": "731",
+        "Pokemon Name": "pikipek",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "trumbeak": {
+        "Pokedex Number": "732",
+        "Pokemon Name": "trumbeak",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "toucannon": {
+        "Pokedex Number": "733",
+        "Pokemon Name": "toucannon",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "yungoos": {
+        "Pokedex Number": "734",
+        "Pokemon Name": "yungoos",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "gumshoos": {
+        "Pokedex Number": "735",
+        "Pokemon Name": "gumshoos",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "grubbin": {
+        "Pokedex Number": "736",
+        "Pokemon Name": "grubbin",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "charjabug": {
+        "Pokedex Number": "737",
+        "Pokemon Name": "charjabug",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "vikavolt": {
+        "Pokedex Number": "738",
+        "Pokemon Name": "vikavolt",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "crabrawler": {
+        "Pokedex Number": "739",
+        "Pokemon Name": "crabrawler",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "crabominable": {
+        "Pokedex Number": "740",
+        "Pokemon Name": "crabominable",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "oricorio": {
+        "Pokedex Number": "741",
+        "Pokemon Name": "oricorio",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "cutiefly": {
+        "Pokedex Number": "742",
+        "Pokemon Name": "cutiefly",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "ribombee": {
+        "Pokedex Number": "743",
+        "Pokemon Name": "ribombee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "rockruff": {
+        "Pokedex Number": "744",
+        "Pokemon Name": "rockruff",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "lycanroc": {
+        "Pokedex Number": "745",
+        "Pokemon Name": "lycanroc",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "wishiwashi": {
+        "Pokedex Number": "746",
+        "Pokemon Name": "wishiwashi",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mareanie": {
+        "Pokedex Number": "747",
+        "Pokemon Name": "mareanie",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "toxapex": {
+        "Pokedex Number": "748",
+        "Pokemon Name": "toxapex",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mudbray": {
+        "Pokedex Number": "749",
+        "Pokemon Name": "mudbray",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mudsdale": {
+        "Pokedex Number": "750",
+        "Pokemon Name": "mudsdale",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dewpider": {
+        "Pokedex Number": "751",
+        "Pokemon Name": "dewpider",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "araquanid": {
+        "Pokedex Number": "752",
+        "Pokemon Name": "araquanid",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "fomantis": {
+        "Pokedex Number": "753",
+        "Pokemon Name": "fomantis",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "lurantis": {
+        "Pokedex Number": "754",
+        "Pokemon Name": "lurantis",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "morelull": {
+        "Pokedex Number": "755",
+        "Pokemon Name": "morelull",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "shiinotic": {
+        "Pokedex Number": "756",
+        "Pokemon Name": "shiinotic",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "salandit": {
+        "Pokedex Number": "757",
+        "Pokemon Name": "salandit",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "salazzle": {
+        "Pokedex Number": "758",
+        "Pokemon Name": "salazzle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "stufful": {
+        "Pokedex Number": "759",
+        "Pokemon Name": "stufful",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bewear": {
+        "Pokedex Number": "760",
+        "Pokemon Name": "bewear",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bounsweet": {
+        "Pokedex Number": "761",
+        "Pokemon Name": "bounsweet",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "steenee": {
+        "Pokedex Number": "762",
+        "Pokemon Name": "steenee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tsareena": {
+        "Pokedex Number": "763",
+        "Pokemon Name": "tsareena",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "comfey": {
+        "Pokedex Number": "764",
+        "Pokemon Name": "comfey",
+        "Last Game Playable in": "Ultra Sun and Moon",
+        "Last Game Catchable In": "Ultra Sun and Moon"
+    },
+    "oranguru": {
+        "Pokedex Number": "765",
+        "Pokemon Name": "oranguru",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "passimian": {
+        "Pokedex Number": "766",
+        "Pokemon Name": "passimian",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "wimpod": {
+        "Pokedex Number": "767",
+        "Pokemon Name": "wimpod",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "golisopod": {
+        "Pokedex Number": "768",
+        "Pokemon Name": "golisopod",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sandygast": {
+        "Pokedex Number": "769",
+        "Pokemon Name": "sandygast",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "palossand": {
+        "Pokedex Number": "770",
+        "Pokemon Name": "palossand",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "pyukumuku": {
+        "Pokedex Number": "771",
+        "Pokemon Name": "pyukumuku",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "type-null": {
+        "Pokedex Number": "772",
+        "Pokemon Name": "type-null",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "silvally": {
+        "Pokedex Number": "773",
+        "Pokemon Name": "silvally",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "minior": {
+        "Pokedex Number": "774",
+        "Pokemon Name": "minior",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "komala": {
+        "Pokedex Number": "775",
+        "Pokemon Name": "komala",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "turtonator": {
+        "Pokedex Number": "776",
+        "Pokemon Name": "turtonator",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "togedemaru": {
+        "Pokedex Number": "777",
+        "Pokemon Name": "togedemaru",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "mimikyu": {
+        "Pokedex Number": "778",
+        "Pokemon Name": "mimikyu",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "bruxish": {
+        "Pokedex Number": "779",
+        "Pokemon Name": "bruxish",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "drampa": {
+        "Pokedex Number": "780",
+        "Pokemon Name": "drampa",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "dhelmise": {
+        "Pokedex Number": "781",
+        "Pokemon Name": "dhelmise",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "jangmo-o": {
+        "Pokedex Number": "782",
+        "Pokemon Name": "jangmo-o",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hakamo-o": {
+        "Pokedex Number": "783",
+        "Pokemon Name": "hakamo-o",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "kommo-o": {
+        "Pokedex Number": "784",
+        "Pokemon Name": "kommo-o",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "tapu-koko": {
+        "Pokedex Number": "785",
+        "Pokemon Name": "tapu-koko",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "tapu-lele": {
+        "Pokedex Number": "786",
+        "Pokemon Name": "tapu-lele",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "tapu-bulu": {
+        "Pokedex Number": "787",
+        "Pokemon Name": "tapu-bulu",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "tapu-fini": {
+        "Pokedex Number": "788",
+        "Pokemon Name": "tapu-fini",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "cosmog": {
+        "Pokedex Number": "789",
+        "Pokemon Name": "cosmog",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "cosmoem": {
+        "Pokedex Number": "790",
+        "Pokemon Name": "cosmoem",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "solgaleo": {
+        "Pokedex Number": "791",
+        "Pokemon Name": "solgaleo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "lunala": {
+        "Pokedex Number": "792",
+        "Pokemon Name": "lunala",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "nihilego": {
+        "Pokedex Number": "793",
+        "Pokemon Name": "nihilego",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "buzzwole": {
+        "Pokedex Number": "794",
+        "Pokemon Name": "buzzwole",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "pheromosa": {
+        "Pokedex Number": "795",
+        "Pokemon Name": "pheromosa",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "xurkitree": {
+        "Pokedex Number": "796",
+        "Pokemon Name": "xurkitree",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "celesteela": {
+        "Pokedex Number": "797",
+        "Pokemon Name": "celesteela",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "kartana": {
+        "Pokedex Number": "798",
+        "Pokemon Name": "kartana",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "guzzlord": {
+        "Pokedex Number": "799",
+        "Pokemon Name": "guzzlord",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "necrozma": {
+        "Pokedex Number": "800",
+        "Pokemon Name": "necrozma",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "magearna": {
+        "Pokedex Number": "801",
+        "Pokemon Name": "magearna",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "marshadow": {
+        "Pokedex Number": "802",
+        "Pokemon Name": "marshadow",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "poipole": {
+        "Pokedex Number": "803",
+        "Pokemon Name": "poipole",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "naganadel": {
+        "Pokedex Number": "804",
+        "Pokemon Name": "naganadel",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "stakataka": {
+        "Pokedex Number": "805",
+        "Pokemon Name": "stakataka",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Moon"
+    },
+    "blacephalon": {
+        "Pokedex Number": "806",
+        "Pokemon Name": "blacephalon",
+        "Last Game Playable in": "Ultra Sun and Ultra Moon",
+        "Last Game Catchable In": "Ultra Sun"
+    },
+    "zeraora": {
+        "Pokedex Number": "807",
+        "Pokemon Name": "zeraora",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Ultra Sun and Ultra Moon"
+    },
+    "meltan": {
+        "Pokedex Number": "808",
+        "Pokemon Name": "meltan",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Go"
+    },
+    "melmetal": {
+        "Pokedex Number": "809",
+        "Pokemon Name": "melmetal",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Go"
+    },
+    "grookey": {
+        "Pokedex Number": "810",
+        "Pokemon Name": "grookey",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "thwackey": {
+        "Pokedex Number": "811",
+        "Pokemon Name": "thwackey",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "rillaboom": {
+        "Pokedex Number": "812",
+        "Pokemon Name": "rillaboom",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "scorbunny": {
+        "Pokedex Number": "813",
+        "Pokemon Name": "scorbunny",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "raboot": {
+        "Pokedex Number": "814",
+        "Pokemon Name": "raboot",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cinderace": {
+        "Pokedex Number": "815",
+        "Pokemon Name": "cinderace",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sobble": {
+        "Pokedex Number": "816",
+        "Pokemon Name": "sobble",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "drizzile": {
+        "Pokedex Number": "817",
+        "Pokemon Name": "drizzile",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "inteleon": {
+        "Pokedex Number": "818",
+        "Pokemon Name": "inteleon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "skwovet": {
+        "Pokedex Number": "819",
+        "Pokemon Name": "skwovet",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "greedent": {
+        "Pokedex Number": "820",
+        "Pokemon Name": "greedent",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "rookidee": {
+        "Pokedex Number": "821",
+        "Pokemon Name": "rookidee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "corvisquire": {
+        "Pokedex Number": "822",
+        "Pokemon Name": "corvisquire",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "corviknight": {
+        "Pokedex Number": "823",
+        "Pokemon Name": "corviknight",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "blipbug": {
+        "Pokedex Number": "824",
+        "Pokemon Name": "blipbug",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dottler": {
+        "Pokedex Number": "825",
+        "Pokemon Name": "dottler",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "orbeetle": {
+        "Pokedex Number": "826",
+        "Pokemon Name": "orbeetle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "nickit": {
+        "Pokedex Number": "827",
+        "Pokemon Name": "nickit",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "thievul": {
+        "Pokedex Number": "828",
+        "Pokemon Name": "thievul",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "gossifleur": {
+        "Pokedex Number": "829",
+        "Pokemon Name": "gossifleur",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "eldegoss": {
+        "Pokedex Number": "830",
+        "Pokemon Name": "eldegoss",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "wooloo": {
+        "Pokedex Number": "831",
+        "Pokemon Name": "wooloo",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dubwool": {
+        "Pokedex Number": "832",
+        "Pokemon Name": "dubwool",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "chewtle": {
+        "Pokedex Number": "833",
+        "Pokemon Name": "chewtle",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "drednaw": {
+        "Pokedex Number": "834",
+        "Pokemon Name": "drednaw",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "yamper": {
+        "Pokedex Number": "835",
+        "Pokemon Name": "yamper",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "boltund": {
+        "Pokedex Number": "836",
+        "Pokemon Name": "boltund",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "rolycoly": {
+        "Pokedex Number": "837",
+        "Pokemon Name": "rolycoly",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "carkol": {
+        "Pokedex Number": "838",
+        "Pokemon Name": "carkol",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "coalossal": {
+        "Pokedex Number": "839",
+        "Pokemon Name": "coalossal",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "applin": {
+        "Pokedex Number": "840",
+        "Pokemon Name": "applin",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "flapple": {
+        "Pokedex Number": "841",
+        "Pokemon Name": "flapple",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "appletun": {
+        "Pokedex Number": "842",
+        "Pokemon Name": "appletun",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "silicobra": {
+        "Pokedex Number": "843",
+        "Pokemon Name": "silicobra",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sandaconda": {
+        "Pokedex Number": "844",
+        "Pokemon Name": "sandaconda",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cramorant": {
+        "Pokedex Number": "845",
+        "Pokemon Name": "cramorant",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "arrokuda        ": {
+        "Pokedex Number": "846",
+        "Pokemon Name": "arrokuda        ",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "barraskewda": {
+        "Pokedex Number": "847",
+        "Pokemon Name": "barraskewda",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "toxel": {
+        "Pokedex Number": "848",
+        "Pokemon Name": "toxel",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "toxtricity": {
+        "Pokedex Number": "849",
+        "Pokemon Name": "toxtricity",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sizzlipede": {
+        "Pokedex Number": "850",
+        "Pokemon Name": "sizzlipede",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "centiskorch": {
+        "Pokedex Number": "851",
+        "Pokemon Name": "centiskorch",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "clobbopus": {
+        "Pokedex Number": "852",
+        "Pokemon Name": "clobbopus",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "grapploct": {
+        "Pokedex Number": "853",
+        "Pokemon Name": "grapploct",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "sinistea": {
+        "Pokedex Number": "854",
+        "Pokemon Name": "sinistea",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "polteageist ": {
+        "Pokedex Number": "855",
+        "Pokemon Name": "polteageist ",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hatenna": {
+        "Pokedex Number": "856",
+        "Pokemon Name": "hatenna",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hattrem": {
+        "Pokedex Number": "857",
+        "Pokemon Name": "hattrem",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "hatterne": {
+        "Pokedex Number": "858",
+        "Pokemon Name": "hatterne",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "impidimp": {
+        "Pokedex Number": "859",
+        "Pokemon Name": "impidimp",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "morgrem": {
+        "Pokedex Number": "860",
+        "Pokemon Name": "morgrem",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "grimmsnarl": {
+        "Pokedex Number": "861",
+        "Pokemon Name": "grimmsnarl",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "obstagoon": {
+        "Pokedex Number": "862",
+        "Pokemon Name": "obstagoon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "perrserker": {
+        "Pokedex Number": "863",
+        "Pokemon Name": "perrserker",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cursola": {
+        "Pokedex Number": "864",
+        "Pokemon Name": "cursola",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "sirfetch'd": {
+        "Pokedex Number": "865",
+        "Pokemon Name": "sirfetch'd",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "mister rime": {
+        "Pokedex Number": "866",
+        "Pokemon Name": "mister rime",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "runerigus": {
+        "Pokedex Number": "867",
+        "Pokemon Name": "runerigus",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "milcery": {
+        "Pokedex Number": "868",
+        "Pokemon Name": "milcery",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "alcremie": {
+        "Pokedex Number": "869",
+        "Pokemon Name": "alcremie",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "falinks": {
+        "Pokedex Number": "870",
+        "Pokemon Name": "falinks",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "pincurchin": {
+        "Pokedex Number": "871",
+        "Pokemon Name": "pincurchin",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "snom": {
+        "Pokedex Number": "872",
+        "Pokemon Name": "snom",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "frosmoth": {
+        "Pokedex Number": "873",
+        "Pokemon Name": "frosmoth",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "stonjourner": {
+        "Pokedex Number": "874",
+        "Pokemon Name": "stonjourner",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "eiscue": {
+        "Pokedex Number": "875",
+        "Pokemon Name": "eiscue",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "indeedee": {
+        "Pokedex Number": "876",
+        "Pokemon Name": "indeedee",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "morpeko": {
+        "Pokedex Number": "877",
+        "Pokemon Name": "morpeko",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "cufant": {
+        "Pokedex Number": "878",
+        "Pokemon Name": "cufant",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "copperajah": {
+        "Pokedex Number": "879",
+        "Pokemon Name": "copperajah",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dracozolt": {
+        "Pokedex Number": "880",
+        "Pokemon Name": "dracozolt",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "arctozolt": {
+        "Pokedex Number": "881",
+        "Pokemon Name": "arctozolt",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dracovish": {
+        "Pokedex Number": "882",
+        "Pokemon Name": "dracovish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "arctovish": {
+        "Pokedex Number": "883",
+        "Pokemon Name": "arctovish",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "duraludon": {
+        "Pokedex Number": "884",
+        "Pokemon Name": "duraludon",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dreepy": {
+        "Pokedex Number": "885",
+        "Pokemon Name": "dreepy",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "drakloak": {
+        "Pokedex Number": "886",
+        "Pokemon Name": "drakloak",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "dragapult": {
+        "Pokedex Number": "887",
+        "Pokemon Name": "dragapult",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    },
+    "zacian": {
+        "Pokedex Number": "888",
+        "Pokemon Name": "zacian",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword"
+    },
+    "zamazenta": {
+        "Pokedex Number": "889",
+        "Pokemon Name": "zamazenta",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Shield"
+    },
+    "eternatus": {
+        "Pokedex Number": "890",
+        "Pokemon Name": "eternatus",
+        "Last Game Playable in": "Pokemon Sword and Shield",
+        "Last Game Catchable In": "Pokemon Sword and Shield"
+    }
+}
